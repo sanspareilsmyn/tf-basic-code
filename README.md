@@ -1,3 +1,3 @@
-# tf-snippet
-업무효율성 증대를 위한 TensorFlow Snippet입니다.
+# tf-basic-code
+제목으로 편하게 찾아보는 TensorFlow Basic Code입니다.  
 https://www.tensorflow.org/
